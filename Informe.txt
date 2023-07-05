@@ -1,0 +1,2 @@
+el Git tiene unas funcionalidades de crear ramas y funciones y escribir historiales de repositorios y 
+es uno de los mas usados por lo que no necesita conexion a internet y cada desarrollador tiene una copia identica del proyecto en su equipo

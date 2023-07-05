@@ -1,0 +1,7 @@
+el tema que tratamos el dia de hoy fue el TALLER GIT ACTUALIZADO
+¿Que es un sistema de control de versiones?: sincroniza las versiones y se asegura de que los cambios no entren en conflictocon los cambios de otros usuarios.
+ El equipo se basa en el control de versiones para ayudar a resolver y evitar conflictos, incluso cuando los usuarios realizan cambios al mismo tiempo.
+ y mantiene un historial de cambios a medida que el equipo guarda nuevas versiones de código. Los miembros del equipo pueden revisar el historial para 
+ averiguar quién, por qué y cuándo se realizaron cambios. El historial proporciona a los equipos la confianza de experimentar, ya que es fácil revertir 
+ a una versión correcta anterior en cualquier momento. El historial permite a cualquier persona basar el trabajo desde cualquier versión del código, 
+ por ejemplo, para corregir un error en una versión anterior.
